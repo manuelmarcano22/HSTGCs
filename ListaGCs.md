@@ -2682,4 +2682,32 @@ No tiene
 |  67 | NGC2419           | F702W              | WFPC2        |     100    |          7628 |           1 |
 | 116 | TUNGSTEN          | F390M              | WFC3         |       9.2  |         14989 |           1 |
 
+# NGC 7078
+
+|     | Target Name        | Filters/Gratings            | Instrument   |   ocurrence |
+|----:|:-------------------|:----------------------------|:-------------|------------:|
+|  82 | NGC7078-CEN        | G430M                       | STIS         |          69 |
+|  77 | NGC7078            | F555W                       | WFPC2        |          31 |
+| 111 | NGC7078-WFPC2-POS1 | F450W                       | WFPC2        |          24 |
+|   5 | DARK               | MIRVIS                      | STIS         |          17 |
+| 105 | NGC7078-STAR       | G140L                       | STIS         |          16 |
+|  41 | M15                | F140LP;N/A;F140LP           | ACS          |          16 |
+|  18 | K648               | F547M                       | WFPC2        |          15 |
+| 110 | NGC7078-STAR       | G750M                       | STIS         |          15 |
+| 106 | NGC7078-STAR       | G160L                       | FOS          |          14 |
+|  15 | K648               | F439W                       | WFPC2        |          14 |
+|  14 | K648               | F336W                       | WFPC2        |          14 |
+|  23 | K648               | F814W                       | WFPC2        |          14 |
+|  97 | NGC7078-OFFSET     | MIRVIS                      | STIS         |          13 |
+| 113 | NGC7078-WFPC2-POS3 | F450W                       | WFPC2        |          12 |
+| 114 | NGC7078-WFPC2-POS4 | F450W                       | WFPC2        |          12 |
+|  47 | M15                | F555W                       | WFPC2        |          12 |
+| 112 | NGC7078-WFPC2-POS2 | F450W                       | WFPC2        |          12 |
+|  80 | NGC7078            | F785LP                      | WFPC2        |          11 |
+|  19 | K648               | F656N                       | WFPC2        |          11 |
+|  90 | NGC7078-M15        | F336W                       | WFPC2        |          10 |
+|  54 | M15-WFPC2          | F814W                       | WFPC2        |          10 |
+|  53 | M15-WFPC2          | F450W                       | WFPC2        |          10 |
+
+
 
