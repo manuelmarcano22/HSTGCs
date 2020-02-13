@@ -192,7 +192,7 @@ There are known X-ray souces and it was observed with Chandra two times and with
 
 # NGC 2419
 
-There are some data in F814W
+There are some data in F814W. Some pople maybe did some variability [The NGC 2419 project: preliminary results on stellar variability](https://ui.adsabs.harvard.edu/abs/2007IAUS..241..243D/abstract)
 
 |    | Target Name       | Filters/Gratings   | Instrument   |   Exp Time |   year |   ocurrence |
 |---:|:------------------|:-------------------|:-------------|-----------:|-------:|------------:|
@@ -218,6 +218,8 @@ There are some data in F814W
 
 
 # IC 4499
+
+Maybe can do it? There is no publication with the F110W data. The proposal [11549](https://archive.stsci.edu/proposal_search.php?mission=hst&id=11549) was for calibration.
 
 |    | Target Name   | Filters/Gratings   | Instrument   |   Exp Time |   year |   ocurrence |
 |---:|:--------------|:-------------------|:-------------|-----------:|-------:|------------:|
@@ -267,7 +269,7 @@ There are some data in F814W
 
 
 
- 6752
+# NGC 6752
 
 |    | Target Name   | Filters/Gratings   | Instrument   |   Exp Time |   year |   ocurrence |
 |---:|:--------------|:-------------------|:-------------|-----------:|-------:|------------:|
